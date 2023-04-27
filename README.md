@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhosaleprasad849@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15A67GUaFUGTTOZEbiLsrCrbc_H7p6Ia3/view?usp=sharing](https://drive.google.com/file/d/15A67GUaFUGTTOZEbiLsrCrbc_H7p6Ia3/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/fuKU1](https://shorturl.at/fuKU1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
