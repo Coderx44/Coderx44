@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Golang, Nodejs, Postgres**
 
-- 💬 Ask me about **Nodejs, C\C++, Java, Golang**
+- 💬 Ask me about **Golang, C/C++, Nodejs, Java**
 
 - 📫 How to reach me **bhosaleprasad849@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/fuKU1](https://shorturl.at/fuKU1)
+- 📄 Know about my experiences [Prasad's Resume](https://tinyurl.com/prasadBhosaleResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
