@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhosaleprasad849@gmail.com**
 
-- 📄 Know about my experiences [Prasad's Resume](https://tinyurl.com/prasadBhosaleResume)
+- 📄 Know about my experiences [Prasad's Resume](https://tinyurl.com/prasadbhosaleResume44)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
