@@ -3,7 +3,7 @@
 <img align="right" width=400 alt="oops" src = "https://i.pinimg.com/736x/c0/e1/5f/c0e15fc5b0a8751878fb7ccf17c4fa89.jpg">
 - 🔭 I’m currently working on **BookClub**
 
-- 🌱 I’m currently learning **Golang, Nodejs, Postgres**
+- 🌱 I’m currently working with **Golang, Nodejs, Postgres**
 
 - 💬 Ask me about **Golang, C/C++, Nodejs, Java**
 
